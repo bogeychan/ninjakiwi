@@ -1,0 +1,25 @@
+{
+  "name": "@bogeychan/ninjakiwi",
+  "version": "0.0.1",
+  "description": "Unofficial client for the Open Data API from Ninja Kiwi",
+  "author": {
+    "name": "bogeychan",
+    "url": "https://github.com/bogeychan",
+    "email": "bogeychan@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogeychan/ninjakiwi"
+  },
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "homepage": "https://github.com/bogeychan/ninjakiwi",
+  "bugs": "https://github.com/bogeychan/ninjakiwi/issues",
+  "license": "MIT",
+  "keywords": [
+    "ninjakiwi",
+    "client",
+    "api"
+  ]
+}
