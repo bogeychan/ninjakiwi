@@ -2,15 +2,13 @@
 
 **Unofficial** client for the [Open Data API from Ninja Kiwi](https://support.ninjakiwi.com/hc/en-us/articles/13438499873937-Open-Data-API).
 
-Runs in all JavaScript environments that implement the [Fetch Web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+Runs in all TypeScript environments that implement the [Fetch Web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 
 ## Installation
 
 ```bash
 yarn add @bogeychan/ninjakiwi
 ```
-
-_Depending on the environment, a transpile step may be necessary, as I only ship the typescript files._
 
 ## Usage
 
